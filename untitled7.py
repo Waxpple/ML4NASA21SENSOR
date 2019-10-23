@@ -182,7 +182,7 @@ print(lr_model.intercept_ )
 predicted_classes = lr_model.predict(X)
 accuracy = accuracy_score(Y,predicted_classes)
 print(accuracy)
-
+#======================================accuracy = 0.97145, not sure! =================
 # prepare test data for prediction
 test_y = test['Y']
 all_test = train.groupby('id')
