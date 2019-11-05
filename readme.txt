@@ -5,7 +5,8 @@ https://colab.research.google.com/drive/1vyH0caGj7EuF1Lx98Iiq9YhiB1qiJ-5X
 It is my collar file.
 What I have done
 I find the file at NASA open data site. And download the data TEST_001 and RUL_001 and Train_001 and I use train to fit the model and find use TEST to predict and TEST max cycle+RUL = real failure cycle.
-
+This is the data description of nasa:
+https://gallery.azure.ai/Experiment/Predictive-Maintenance-Step-1-of-3-data-preparation-and-feature-engineering-2
 
 This is from train data: 
 Confusion matrix:
